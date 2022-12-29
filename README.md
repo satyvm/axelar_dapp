@@ -1,5 +1,9 @@
 # Axelar cross-chain dApp examples
 
+## My Testnet Link -> [Axelar Testnet Link](https://testnet.axelarscan.io/address/0xb859f6Ef7D87eCc01592f22c8b9F568cDBcb9C10)
+
+https://testnet.axelarscan.io/address/0xb859f6Ef7D87eCc01592f22c8b9F568cDBcb9C10
+
 ## Introduction
 
 This repo provides the code for several example dApps in the [Axelar Local Development Environment](https://github.com/axelarnetwork/axelar-local-dev). Examples contain both JavaScript and Solidity smart contract code.
